@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EddieInch01
-- 👀 I’m interested in sleeping, gaming, & eating
+- 👀 I’m interested in computer science and modern issues
 - 🌱 I’m currently learning Java Data Structures
 - 💞️ I’m not looking to collaborate atm 
 - 📫  reach me by email inchaur3@uwm.edu
